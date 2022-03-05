@@ -3,5 +3,5 @@
 ### Require:
 + [***JRE (JDK) 11***](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html) or above
 
-### [Hướng dẫn](./tutorial.md)
+### [Hướng dẫn](./tutorial.html)
 ### [Download](./download.md)
